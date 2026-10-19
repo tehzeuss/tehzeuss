@@ -1,23 +1,27 @@
-# Olá 👋 Tudo bem?
+<h1 align="center">Zeus Ramalho</h1>
 
-Meu nome é **Zeus Ramalho**, sou estudante de Ciência da Computação e desenvolvo sistemas web.
+<p align="center">
+  Desenvolvimento web · PHP & Laravel · React
+</p>
+
+<p align="center">
+  <a href="https://github.com/tehzeuss?tab=repositories">Projetos</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/tehzeuss?tab=stars">Favoritos</a>
+</p>
+
+---
 
 ### Sobre mim
 
-- 🎓 Estou no **9º período de Ciência da Computação**.
-- 💻 Tenho experiência no desenvolvimento e manutenção de aplicações com **PHP, Laravel, JavaScript, React e PostgreSQL**.
-- ⚙️ Atuo na implementação de funcionalidades, correção de bugs, desenvolvimento backend e integração com APIs.
-- 🗃️ Trabalho com manipulação de bancos de dados e versionamento de código com Git.
-- 🚀 Minha experiência inclui sistemas institucionais em produção, aplicações administrativas e projetos voltados ao usuário final.
+Estudante do **9º período de Ciência da Computação**, com experiência no desenvolvimento e manutenção de sistemas web.
 
-### Trabalho com
+Trabalho com funcionalidades, correção de bugs, integração com APIs e bancos de dados. Minha experiência inclui sistemas institucionais em produção, aplicações administrativas e produtos voltados ao usuário final.
+
+### Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,postgres,git&theme=dark" alt="PHP, Laravel, JavaScript, React, PostgreSQL e Git" />
 </p>
 
-### Meus projetos
-
-Por aqui, compartilho projetos e aprendizados ao longo da minha trajetória em desenvolvimento web.
-
-[Explorar meus repositórios →](https://github.com/tehzeuss?tab=repositories)
+<sub>Backend · Interfaces web · APIs · Bancos de dados</sub>
