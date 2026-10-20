@@ -1,30 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=2563eb" alt="" />
+# Olá 👋 Tudo bem?
 
-<h1 align="center">Olá, eu sou Zeus Ramalho</h1>
-
-<p align="center">Desenvolvedor Web · PHP / Laravel · React</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeus-ramalho-35434b25a/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tehzeuss?tab=repositories">Projetos</a>
-</p>
-
-<br />
+Meu nome é **Zeus Ramalho**, sou estudante de Ciência da Computação e desenvolvo sistemas web.
 
 ### Sobre mim
 
-Estudante do **9º período de Ciência da Computação**, com experiência no desenvolvimento e manutenção de sistemas web.
+- 🎓 Estou no **9º período de Ciência da Computação**.
+- 💻 Tenho experiência no desenvolvimento e manutenção de aplicações com **PHP, Laravel, JavaScript, React e PostgreSQL**.
+- ⚙️ Atuo na implementação de funcionalidades, correção de bugs, desenvolvimento backend e integração com APIs.
+- 🗃️ Trabalho com manipulação de bancos de dados e versionamento de código com Git.
+- 🚀 Minha experiência inclui sistemas institucionais em produção, aplicações administrativas e projetos voltados ao usuário final.
 
-Atuo no **backend**, na integração com **APIs** e na construção de interfaces, implementando funcionalidades e corrigindo bugs. Tenho experiência com sistemas institucionais em produção, aplicações administrativas e projetos voltados ao usuário final.
+### Trabalho com
 
-### Tecnologias
-
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,postgres,git&theme=dark" alt="PHP, Laravel, JavaScript, React, PostgreSQL e Git" />
 </p>
-
-<br />
 
 ### GitHub
 
@@ -33,12 +23,10 @@ Atuo no **backend**, na integração com **APIs** e na construção de interface
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tehzeuss&theme=github_dark" alt="Linguagens dos repositórios públicos" />
 </p>
 
-### Vamos conversar?
+### Meus projetos
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeus-ramalho-35434b25a/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" />
-  </a>
-</p>
+Por aqui, compartilho projetos e aprendizados ao longo da minha trajetória em desenvolvimento web.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=2563eb" alt="" />
+[Explorar meus repositórios →](https://github.com/tehzeuss?tab=repositories)
+
+[LinkedIn](https://www.linkedin.com/in/zeus-ramalho-35434b25a/)
